@@ -1,1 +1,7 @@
-# Clone Spotify utilizando HTML, CSS, Bootstrap
+# Clone Spotify 
+
+Using:
+
+- HTML
+- CSS
+- Bootstrap
